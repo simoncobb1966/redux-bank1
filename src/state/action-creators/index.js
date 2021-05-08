@@ -14,3 +14,19 @@ export const depositMoney = (amount) => {
       });
     };
   };
+  export const newCustomer = (customer) => {
+    return (dispatch) => {
+      dispatch({
+        type: "newCustomer",
+        payload: customer,
+      });
+    };
+  };
+  export const removeCustomer = (customer) => {
+    return (dispatch) => {
+      dispatch({
+        type: "removeCustomer",
+        payload: customer,
+      });
+    };
+  };
