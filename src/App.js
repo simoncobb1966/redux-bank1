@@ -3,6 +3,7 @@ import "./App.css";
 import { useSelector, useDispatch } from "react-redux";
 import { bindActionCreators } from "redux";
 import { actionCreators } from "./state/index.js";
+import { v4 as uuidv4 } from 'uuid';
 function App() {
 
   const [name, setName]=useState("");
@@ -19,7 +20,7 @@ const handleName=(e)=>{
 }
 
   const addCustomer=()=>{
-    newCustomer({name:name, id:Math.floor(Math.random() * 100)})
+    newCustomer({name:name, id:uuidv4()})
   };
 
   const deleteCustomer=(customer)=>{
