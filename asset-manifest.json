@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redux-bank1/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/redux-bank1/static/js/main.3fc10483.chunk.js",
+    "main.js.map": "/redux-bank1/static/js/main.3fc10483.chunk.js.map",
+    "runtime-main.js": "/redux-bank1/static/js/runtime-main.f7ab3af4.js",
+    "runtime-main.js.map": "/redux-bank1/static/js/runtime-main.f7ab3af4.js.map",
+    "static/js/2.30321bf1.chunk.js": "/redux-bank1/static/js/2.30321bf1.chunk.js",
+    "static/js/2.30321bf1.chunk.js.map": "/redux-bank1/static/js/2.30321bf1.chunk.js.map",
+    "static/js/3.ccb654ce.chunk.js": "/redux-bank1/static/js/3.ccb654ce.chunk.js",
+    "static/js/3.ccb654ce.chunk.js.map": "/redux-bank1/static/js/3.ccb654ce.chunk.js.map",
+    "index.html": "/redux-bank1/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/redux-bank1/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.30321bf1.chunk.js.LICENSE.txt": "/redux-bank1/static/js/2.30321bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7ab3af4.js",
+    "static/js/2.30321bf1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.3fc10483.chunk.js"
+  ]
+}
